@@ -1,4 +1,4 @@
-package com.example.scientificcalculator
+package com.example.scientificcalculator;
 
 import androidx.appcompat.app.AppCompatActivity;
 
